@@ -38,4 +38,4 @@ Oder `flutter run` für Emulator/Gerät.
 ## Lizenz
 MIT License. Frei verwenden und modifizieren.
 ## Autor
-Rustam (dein GitHub: @DeinBenutzername). Erstellt mit Hilfe von Grok AI.
+@steempooner.
